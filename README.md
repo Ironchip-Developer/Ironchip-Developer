@@ -173,4 +173,6 @@ We make it easy to collaborate on our project by starting a discussion or sharin
 - 🔭 I’m currently working on [Ironchip](https://www.ironchip.com).
 - 🌱 I’m learning about **Go, Github, Docker, MongoDB, QA testing**
 - ⚡ Fun fact: 
+----
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ironchip-Developer&show_icons=true&theme=merko)
