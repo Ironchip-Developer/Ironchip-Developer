@@ -1,8 +1,8 @@
-
+<!--
 ![GitHub issues](https://img.shields.io/github/issues/Ironchip-Developer/bug-tracker?color=green&style=plastic)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/Ironchip-Developer/bug-tracker?color=green&style=plastic)
 
-<!--[![][IronchipImage]][Ironchip]-->
+[![][IronchipImage]][Ironchip]
 
 Copyright 2021 [Ironchip]. Licensed under [Apache 2.0 License].
 
@@ -152,7 +152,7 @@ Licensing and distribution
 
 Copyright 2021 Ironchip
 
-Licensed under the Apache License, Version 2.0 (the "License");
+Licensed under the Apache License, Version 2.0 (the "License");-->
 
 
 
@@ -161,7 +161,7 @@ Licensed under the Apache License, Version 2.0 (the "License");
 
 
 
-<!--
+
 **Ironchip-Developer/Ironchip-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -174,4 +174,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
