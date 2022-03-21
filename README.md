@@ -154,21 +154,23 @@ Copyright 2021 Ironchip
 
 Licensed under the Apache License, Version 2.0 (the "License");-->
 
+# 👋 Hi, Nice to see you!
+
+**Ironchip-Developer** has a ✨ _main function_ :✨
+Better manage bugs.
+
+Log bugs quickly with details such as severity and due date, and assign them to the right developers. Get a consolidated list of all bugs and track team progress with emails, reports and milestones.
+
+## We stimulate conversation.
+
+We make it easy to collaborate on our project by starting a discussion or sharing an idea with a complete set of collaboration tools such as interactive forums and news feeds.
 
 
 
-
-
-
-
-
-**Ironchip-Developer/Ironchip-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+### ⚡️ A Few Quick Facts
+- 🔭 I’m currently working on [Ironchip](https://www.ironchip.com).
+- 🌱 I’m learning about **Go, Github, Docker, MongoDB**
+- 👯 I’m looking to collaborate 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
