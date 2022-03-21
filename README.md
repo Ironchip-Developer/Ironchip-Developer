@@ -161,19 +161,16 @@ Better manage bugs.
 
 Log bugs quickly with details such as severity and due date, and assign them to the right developers. Get a consolidated list of all bugs and track team progress with emails, reports and milestones.
 
+Other responsibilities include benchmarking against standards, process monitoring, all aimed at preventing errors during the product development process.
+Following best practices early on is the way to go and I'm a huge supporter of it.
+
 ## We stimulate conversation.
 
 We make it easy to collaborate on our project by starting a discussion or sharing an idea with a complete set of collaboration tools such as interactive forums and news feeds.
 
 
-
 ### ⚡️ A Few Quick Facts
 - 🔭 I’m currently working on [Ironchip](https://www.ironchip.com).
-- 🌱 I’m learning about **Go, Github, Docker, MongoDB**
-- 👯 I’m looking to collaborate 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m learning about **Go, Github, Docker, MongoDB, QA testing**
+- ⚡ Fun fact: 
 
