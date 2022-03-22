@@ -9,7 +9,7 @@ Log bugs quickly with details such as severity and due date, and assign them to 
 Other responsibilities include benchmarking against standards, process monitoring, all aimed at preventing errors during the product development process.
 Following best practices early on is the way to go and I'm a huge supporter of it.
 
-we will follow up on the reported bugs and try to give a prompt resolution, always allowing the user to be informed of the status of the problem at all times.
+We will follow up on the reported bugs and try to give a prompt resolution, always allowing the user to be informed of the status of the problem at all times.
 
 ## We stimulate conversation.
 
